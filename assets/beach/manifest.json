@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "author": "3D Assets",
+  "sourceAI": true,
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pack": "https://3dassets.dev/packs/beach-surf-and-paddle-kit",
+  "sources": {
+    "umbrella": {
+      "file": "umbrella.glb",
+      "url": "https://cdn.3dassets.dev/assets/39456/v1/model.glb",
+      "page": "https://3dassets.dev/assets/beach-surf-and-paddle-kit-beach-umbrella-fb839e7d",
+      "sha256": "4b23355a007016566d804f96941718395eef491d5f0326b98b51c889765ed4d1"
+    },
+    "chair": {
+      "file": "chair.glb",
+      "url": "https://cdn.3dassets.dev/assets/39459/v1/model.glb",
+      "page": "https://3dassets.dev/assets/beach-surf-and-paddle-kit-folding-beach-chair-68794f97",
+      "sha256": "eb631b23a79b71a6f20e779d7441b3ef19f5f29192ab25d168065324950af3f6"
+    }
+  },
+  "runtimeBytes": 48780,
+  "files": [
+    {
+      "id": "beachUmbrellaCoral",
+      "file": "beachUmbrellaCoral.glb",
+      "bytes": 18904,
+      "sha256": "02c178e2e0dd7206c8f8edc6efae0a1c2299c841e76f3e68a4a59b00384929cb",
+      "triangles": 710,
+      "sourceTriangles": 2052,
+      "width": 2.20444,
+      "height": 2.4347,
+      "depth": 2.20444,
+      "ground": 0,
+      "front": "+Z",
+      "source": "umbrella",
+      "license": "CC0-1.0",
+      "transform": "Authored static geometry; coral/teal/cream palette into linear vertex colors; ground-centred; welded; meshopt-simplified to the triangle target; meshopt"
+    },
+    {
+      "id": "beachUmbrellaTeal",
+      "file": "beachUmbrellaTeal.glb",
+      "bytes": 18900,
+      "sha256": "9c4d1f586e261f5469fd1573b699fc80ed75ab3eed3beb5da4057ed4ab2dd71b",
+      "triangles": 710,
+      "sourceTriangles": 2052,
+      "width": 2.20444,
+      "height": 2.4347,
+      "depth": 2.20444,
+      "ground": 0,
+      "front": "+Z",
+      "source": "umbrella",
+      "license": "CC0-1.0",
+      "transform": "Authored static geometry; coral/teal/cream palette into linear vertex colors; ground-centred; welded; meshopt-simplified to the triangle target; meshopt"
+    },
+    {
+      "id": "beachChair",
+      "file": "beachChair.glb",
+      "bytes": 10976,
+      "sha256": "e664a62b55637864de93630f6e4622a528fba8eae03c4b45716bbebd7c10f577",
+      "triangles": 524,
+      "sourceTriangles": 1168,
+      "width": 0.65786,
+      "height": 0.90943,
+      "depth": 0.85514,
+      "ground": 0,
+      "front": "+Z",
+      "source": "chair",
+      "license": "CC0-1.0",
+      "transform": "Authored static geometry; coral/teal/cream palette into linear vertex colors; ground-centred; welded; meshopt-simplified to the triangle target; meshopt"
+    }
+  ]
+}
