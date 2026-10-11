@@ -1,0 +1,20 @@
+{
+  "id": "/racing/lab/",
+  "name": "VINDecoded Rush (controls lab)",
+  "short_name": "Rush lab",
+  "description": "Arcade racing on the Pacific coast at sunset. Find your line. Stick the landing.",
+  "start_url": "/racing/lab/",
+  "scope": "/racing/lab/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#131b21",
+  "theme_color": "#131b21",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
