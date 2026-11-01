@@ -75,3 +75,11 @@ scrape and UI tones are synthesized at runtime.
 |---|---|---|
 | [Watercraft Kit 2.1](https://kenney.nl/assets/watercraft-kit) by Kenney | Five offshore boats (sailboats, speedboat, fishing boat, liner) in `assets/watercraft/`; source archive URL, SHA-256 and per-file hashes in its `manifest.json` and `PROVENANCE.md` | CC0 1.0 (`assets/watercraft/License.txt`) |
 | [City Kit Suburban 2.0](https://kenney.nl/assets/city-kit-suburban) / [City Kit Commercial 2.1](https://kenney.nl/assets/city-kit-commercial) by Kenney | Two more villas, a shop, a street planter and two cafe parasols (canopies recoloured) in `assets/districts/` | CC0 1.0 (`assets/districts/LICENSE-*.txt`) |
+
+## Kestrel Woods (the lab's training ground)
+
+Kestrel Woods is modelled at true size on a real proving ground, under our own
+names. The shapes of its oval, paved surfaces, woods, ponds and buildings
+(`src/field-survey.js`) were derived on 2026-10-31 from satellite imagery:
+Esri's World Imagery basemap (World Imagery © Esri and its imagery contributors).
+No imagery is included in the game, only simplified outlines drawn from it.
