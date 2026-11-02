@@ -83,3 +83,19 @@ names. The shapes of its oval, paved surfaces, woods, ponds and buildings
 (`src/field-survey.js`) were derived on 2026-10-31 from satellite imagery:
 Esri's World Imagery basemap (World Imagery © Esri and its imagery contributors).
 No imagery is included in the game, only simplified outlines drawn from it.
+
+On 2026-11-02 its open ground (`src/field-terrain.js`) was added, and the survey
+was set on its true position:
+
+- **Heights**: LGL-BW (2026) Datenlizenz Deutschland - Namensnennung - Version
+  2.0, www.lgl-bw.de. The terrain model DGM1 (INSPIRE-WCS BW Höhenlage, 1 m)
+  of the site and round about, rebuilt from its whole metres and resampled to
+  a 4 m and a 16 m grid; the oval's road profile was fitted to it.
+- **Position**: the oval was re-traced, and the survey's outlines moved, on
+  LGL-BW's orthophoto (DOP 20, the same licence and credit). No orthophoto is
+  included in the game.
+- **The fence, the roads outside the oval and the infield's missing ones, the
+  car parks, the buildings by the gate and the tunnel road**: map data ©
+  OpenStreetMap contributors, available under the Open Database License
+  (www.openstreetmap.org/copyright). A small extract of lines and outlines,
+  simplified.
